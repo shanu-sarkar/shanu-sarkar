@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>MERN Developer<br>Hi, I'm<br>Shanu Sarkar<br>Web Developer with expertise of React.js, Redux, Cloud Firestore, HTML and CSS. currently learning MERN Stack for Web Application.<br>Made with ❤️ by Shanu Sarkar ©️ 2024
+<br>MERN Developer<br>Hi, I'm<br>Shanu Sarkar<br>Web Developer with expertise of React.js, Redux, Cloud Firestore, HTML and CSS. currently learning MERN Stack for Web Application.<br>Made with ❤️ by Shanu Sarkar ©️ 2024
 
 
 ## 🌐 Socials:
