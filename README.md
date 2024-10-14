@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>MERN Developer<br>Hi, I'm<br>Shanu Sarkar<br>Web Developer with expertise of React.js, Redux, Cloud Firestore, HTML and CSS. currently learning MERN Stack for Web Application.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboldist.co%2Fweb-design%2Fusing-animations-in-web-design%2F&psig=AOvVaw0bLDbtQej8U7y0Wpj7xemt&ust=1728982339069000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjzjbq_jYkDFQAAAAAdAAAAABAE" alt="Girl in a jacket" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDCamb5S2ndQDS8n4cy8ljbCx2iGFKEcqA&s" alt="Girl in a jacket" width="400">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sanu.kr.980?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/me_shanu07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shanu-sarkar01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/i/flow/login?redirect_after_login=%2FShanu0156) 
